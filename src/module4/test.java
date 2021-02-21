@@ -8,5 +8,6 @@ public class test {
 		Scanner scan = new java.util.Scanner(System.in);
 		System.out.println("This program will ask you a series of questions about maddie");
 		String[] questions = {"What is maddie's least favorite color?", "What is maddie's favorite number?", "What is maddie's favorite fruit?", "What is maddie's middle name?"};
+		String[] answerStrings = {"red", "doesn't have one", "apple", "lee"};
 	}
 }
