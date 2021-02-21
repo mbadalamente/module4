@@ -19,5 +19,8 @@ public class test {
 				System.out.println("incorrect");
 			}
 		}
+		System.out.println("Did you enjoy the quiz?");
+		String rating = scan.next();
+		System.out.println("Thank you for your feedback");
 	}
 }
